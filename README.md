@@ -4,7 +4,7 @@ Learning project of the first course of Full Stack Web Development Specializatio
 [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4)
 
 1. Front-end Web UI Frameworks Overview: Bootstrap 
-	- [x] May 28, 2018
+	- [x] May 15 ~ 28, 2018
   
 2. Bootstrap CSS Components
 	 + Navigation and Navigation Bar 
