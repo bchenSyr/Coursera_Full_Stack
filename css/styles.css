@@ -10,6 +10,13 @@
   min-height: 400px;
 }
 
+.row-aboutus {
+  marge: 0px auto;
+  padding: 10px 50px 10px 10px;
+  border-bottom: 1px ridge;
+  /* min-height: 400px; */
+}
+
 .footer {
     background-color: #B2EBF2;
     margin:0px auto;
