@@ -1,6 +1,6 @@
 # Coursera_Full_Stack
 
-[Coursera: Full Stack Web and Multiplatform Mobile App Development Specialization: Course 1 - Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4)
+Learning project of the first course of Full Stack Web Development Specialization in the Coursera platform: [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4)
 
 1. Front-end Web UI Frameworks Overview: Bootstrap 
 	- [x] May 28, 2018
