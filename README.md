@@ -6,7 +6,8 @@ Learning project of the first course of Full Stack Web Development Specializatio
 	- [x] May 28, 2018
   
 2. Bootstrap CSS Components
-	 + Navigation and Navigation Bar - [x] June 4, 2018
+	 + Navigation and Navigation Bar 
+	 	- [x] June 4, 2018
 	 + User Input: Buttons and Forms
 	 + Displaying Content: Tables and Cards
 	 + Images and Media: Images, Thumbnails, Media Objects
