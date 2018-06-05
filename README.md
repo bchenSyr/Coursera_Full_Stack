@@ -3,11 +3,11 @@
 Learning project of the first course of Full Stack Web Development Specialization in the Coursera platform: 
 [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4)
 
-1. Front-end Web UI Frameworks Overview: Bootstrap 
+## Front-end Web UI Frameworks Overview: Bootstrap 
 	- [x] May 15 ~ 28, 2018
   
-2. Bootstrap CSS Components
-- [x] June 4 ~ ?, 2018
+## Bootstrap CSS Components
+	- [x] June 4 ~ ?, 2018
 	 + Navigation and Navigation Bar 
 	 	+ [navbar](http://getbootstrap.com/docs/4.0/components/navbar/)			 	
 	 + User Input: Buttons and Forms
@@ -20,7 +20,7 @@ Learning project of the first course of Full Stack Web Development Specializatio
 	 + Assignment 2
 	 + UI Design and Prototyping
 
-3. Bootstrap Javascript Components
+## Bootstrap Javascript Components
 	+ Bootstrap JavaScript Components Overview
 	+ Tabs, Pills and Tabbed Navigation
 	+ Hide and Seek: Collapse and Accordion
@@ -28,7 +28,7 @@ Learning project of the first course of Full Stack Web Development Specializatio
 	+ Carousel
 	+ Assignment 3
 
-4. Web Tools
+## Web Tools
 	+ Bootstrap and JQuery
 	+ Less is More!: Less and Sass
 	+ Assignment 4
