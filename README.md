@@ -13,10 +13,14 @@ Learning project of the first course of Full Stack Web Development Specializatio
     + [navbar](http://getbootstrap.com/docs/4.0/components/navbar/)		
 	
   + User Input: Buttons and Forms
-    + [button](http://getbootstrap.com/docs/4.0/components/buttons/)
+    + [buttons](http://getbootstrap.com/docs/4.0/components/buttons/)
     + [button group](http://getbootstrap.com/docs/4.0/components/button-group/)
-    + [form](http://getbootstrap.com/docs/4.0/components/forms/)
+    + [forms](http://getbootstrap.com/docs/4.0/components/forms/)
+    
   + Displaying Content: Tables and Cards
+    + [tables](http://getbootstrap.com/docs/4.0/content/tables/)
+    + [cards](http://getbootstrap.com/docs/4.0/components/card/)
+    
   + Images and Media: Images, Thumbnails, Media Objects
   + Alerting Users: Badges, Alerts, Progress Bars
   + Assignment 2
