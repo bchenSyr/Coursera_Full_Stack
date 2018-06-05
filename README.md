@@ -9,26 +9,25 @@ Learning project of the first course of Full Stack Web Development Specializatio
 ## 2. Bootstrap CSS Components
 - [ ] June 4 ~ ?, 2018
   
-  + Navigation and Navigation Bar
-    + [navbar](http://getbootstrap.com/docs/4.0/components/navbar/)		
+  + [Navigation and Navigation Bar](http://getbootstrap.com/docs/4.0/components/navbar/)	
 	
-  + User Input: Buttons and Forms
-    + [buttons](http://getbootstrap.com/docs/4.0/components/buttons/)
-    + [button group](http://getbootstrap.com/docs/4.0/components/button-group/)
-    + [forms](http://getbootstrap.com/docs/4.0/components/forms/)
+  + User Input: 
+    [buttons](http://getbootstrap.com/docs/4.0/components/buttons/), 
+    [button group](http://getbootstrap.com/docs/4.0/components/button-group/), 
+    [forms](http://getbootstrap.com/docs/4.0/components/forms/)
     
-  + Displaying Content: Tables and Cards
-    + [tables](http://getbootstrap.com/docs/4.0/content/tables/)
-    + [cards](http://getbootstrap.com/docs/4.0/components/card/)
+  + Displaying Content: 
+    [tables](http://getbootstrap.com/docs/4.0/content/tables/), 
+    [cards](http://getbootstrap.com/docs/4.0/components/card/)
     
-  + Images and Media: Images, Thumbnails, Media Objects
-    + [img](http://getbootstrap.com/docs/4.0/content/images/) 
-    + [media object](http://getbootstrap.com/docs/4.0/layout/media-object/)
+  + Images and Media: 
+    [img](http://getbootstrap.com/docs/4.0/content/images/), 
+    [media object](http://getbootstrap.com/docs/4.0/layout/media-object/)
   
-  + Alerting Users: Badges, Alerts, Progress Bars
-    [badges](http://getbootstrap.com/docs/4.0/components/badge/)
-    [alerts](http://getbootstrap.com/docs/4.0/components/alerts)
-    [progress bar](http://getbootstrap.com/docs/4.0/components/progress/)
+  + Alerting Users:
+    [badges](http://getbootstrap.com/docs/4.0/components/badge/),
+    [alerts](http://getbootstrap.com/docs/4.0/components/alerts),
+    [progress bars](http://getbootstrap.com/docs/4.0/components/progress/)
     
   + Assignment 2
   + UI Design and Prototyping
