@@ -22,6 +22,9 @@ Learning project of the first course of Full Stack Web Development Specializatio
     + [cards](http://getbootstrap.com/docs/4.0/components/card/)
     
   + Images and Media: Images, Thumbnails, Media Objects
+    + [img](http://getbootstrap.com/docs/4.0/content/images/) 
+    + [media object](http://getbootstrap.com/docs/4.0/layout/media-object/)
+  
   + Alerting Users: Badges, Alerts, Progress Bars
   + Assignment 2
   + UI Design and Prototyping
