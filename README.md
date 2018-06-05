@@ -26,6 +26,10 @@ Learning project of the first course of Full Stack Web Development Specializatio
     + [media object](http://getbootstrap.com/docs/4.0/layout/media-object/)
   
   + Alerting Users: Badges, Alerts, Progress Bars
+    [badges](http://getbootstrap.com/docs/4.0/components/badge/)
+    [alerts](http://getbootstrap.com/docs/4.0/components/alerts)
+    [progress bar](http://getbootstrap.com/docs/4.0/components/progress/)
+    
   + Assignment 2
   + UI Design and Prototyping
 
