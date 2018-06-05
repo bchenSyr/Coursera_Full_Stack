@@ -9,25 +9,26 @@ Learning project of the first course of Full Stack Web Development Specializatio
 ## 2. Bootstrap CSS Components
 - [ ] June 4 ~ ?, 2018
   
-  + [Navigation and Navigation Bar](http://getbootstrap.com/docs/4.0/components/navbar/)	
+  + [Navigation Bar](http://getbootstrap.com/docs/4.0/components/navbar/)	
+    [Breadcrumb](http://getbootstrap.com/docs/4.0/components/breadcrumb/)
 	
   + User Input: 
-    [buttons](http://getbootstrap.com/docs/4.0/components/buttons/), 
-    [button group](http://getbootstrap.com/docs/4.0/components/button-group/), 
-    [forms](http://getbootstrap.com/docs/4.0/components/forms/)
+    [Buttons](http://getbootstrap.com/docs/4.0/components/buttons/), 
+    [Button Groups](http://getbootstrap.com/docs/4.0/components/button-group/), 
+    [Forms](http://getbootstrap.com/docs/4.0/components/forms/)
     
   + Displaying Content: 
-    [tables](http://getbootstrap.com/docs/4.0/content/tables/), 
-    [cards](http://getbootstrap.com/docs/4.0/components/card/)
+    [Tables](http://getbootstrap.com/docs/4.0/content/tables/), 
+    [Card](http://getbootstrap.com/docs/4.0/components/card/)
     
   + Images and Media: 
-    [img](http://getbootstrap.com/docs/4.0/content/images/), 
-    [media object](http://getbootstrap.com/docs/4.0/layout/media-object/)
+    [Img](http://getbootstrap.com/docs/4.0/content/images/), 
+    [Media Object](http://getbootstrap.com/docs/4.0/layout/media-object/)
   
   + Alerting Users:
-    [badges](http://getbootstrap.com/docs/4.0/components/badge/),
-    [alerts](http://getbootstrap.com/docs/4.0/components/alerts),
-    [progress bars](http://getbootstrap.com/docs/4.0/components/progress/)
+    [Badges](http://getbootstrap.com/docs/4.0/components/badge/),
+    [Alerts](http://getbootstrap.com/docs/4.0/components/alerts),
+    [Progress bars](http://getbootstrap.com/docs/4.0/components/progress/)
     
   + Assignment 2
   + UI Design and Prototyping
