@@ -8,18 +8,18 @@ Learning project of the first course of Full Stack Web Development Specializatio
   
 ## 2. Bootstrap CSS Components
 - [ ] June 4 ~ ?, 2018
-
+  
   + Navigation and Navigation Bar 
-  	+ [navbar](http://getbootstrap.com/docs/4.0/components/navbar/)			 	
+    	+ [navbar](http://getbootstrap.com/docs/4.0/components/navbar/)			 	
   + User Input: Buttons and Forms
  	+ [button](http://getbootstrap.com/docs/4.0/components/buttons/)
 	+ [button group](http://getbootstrap.com/docs/4.0/components/button-group/)
 	+ [form](http://getbootstrap.com/docs/4.0/components/forms/)
-   + Displaying Content: Tables and Cards
-   + Images and Media: Images, Thumbnails, Media Objects
-   + Alerting Users: Badges, Alerts, Progress Bars
-   + Assignment 2
-   + UI Design and Prototyping
+  + Displaying Content: Tables and Cards
+  + Images and Media: Images, Thumbnails, Media Objects
+  + Alerting Users: Badges, Alerts, Progress Bars
+  + Assignment 2
+  + UI Design and Prototyping
 
 ## 3. Bootstrap Javascript Components
 
