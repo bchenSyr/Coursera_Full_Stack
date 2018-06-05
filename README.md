@@ -9,7 +9,8 @@ Learning project of the first course of Full Stack Web Development Specializatio
 ## 2. Bootstrap CSS Components
 - [ ] June 4 ~ ?, 2018
   
-  + [Navigation Bar](http://getbootstrap.com/docs/4.0/components/navbar/)	
+  + Navigation:
+    [Navigation Bar](http://getbootstrap.com/docs/4.0/components/navbar/),	
     [Breadcrumb](http://getbootstrap.com/docs/4.0/components/breadcrumb/)
 	
   + User Input: 
