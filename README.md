@@ -7,7 +7,7 @@ Learning project of the first course of Full Stack Web Development Specializatio
 - [x] May 15 ~ 28, 2018
   
 ## 2. Bootstrap CSS Components
-- [ ] June 4 ~ ?, 2018
+- [x] June 4 ~ 5, 2018
   
   + Navigation:
     [Navigation Bar](http://getbootstrap.com/docs/4.0/components/navbar/),	
@@ -32,7 +32,6 @@ Learning project of the first course of Full Stack Web Development Specializatio
     [Progress bars](http://getbootstrap.com/docs/4.0/components/progress/)
     
   + Assignment 2
-  + UI Design and Prototyping
 
 ## 3. Bootstrap Javascript Components
 
