@@ -34,9 +34,12 @@ Learning project of the first course of Full Stack Web Development Specializatio
   + Assignment 2
 
 ## 3. Bootstrap Javascript Components
+- [ ] June 6 ~ ?, 2018
 
   + Bootstrap JavaScript Components Overview
-  + Tabs, Pills and Tabbed Navigation
+  
+  + [Tabs Pills and Tabbed Navigation](http://getbootstrap.com/docs/4.0/components/navs/)
+  
   + Hide and Seek: Collapse and Accordion
   + Revealing Content: Tooltips, Popovers and Modals
   + Carousel
