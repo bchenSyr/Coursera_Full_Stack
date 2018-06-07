@@ -40,7 +40,7 @@ Learning project of the first course of Full Stack Web Development Specializatio
   
   + [Tabs Pills and Tabbed Navigation](http://getbootstrap.com/docs/4.0/components/navs/)
   
-  + Hide and Seek: Collapse and Accordion
+  + Hide and Seek: [Collapse and Accordion](http://getbootstrap.com/docs/4.0/components/collapse/)
   + Revealing Content: Tooltips, Popovers and Modals
   + Carousel
   + Assignment 3
