@@ -50,7 +50,7 @@ Learning project of the first course of Full Stack Web Development Specializatio
   + Assignment 3
 
 ## 4. Web Tools
-- [] June 7 ~ ?, 2018
+- [ ] June 7 ~ ?, 2018
 
   + Bootstrap and JQuery
   + Less is More!: Less and Sass
