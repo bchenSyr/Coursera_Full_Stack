@@ -1,14 +1,13 @@
 # Coursera_Full_Stack
 
-## Course 1 - Bootstrap 4
+Learning project of the first course of Full Stack Web Development Specialization in the Coursera platform
 
-Learning project of the first course of Full Stack Web Development Specialization in the Coursera platform:
-[Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4)
+## Course 1 - [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4)
 
-### 1. Front-end Web UI Frameworks Overview: Bootstrap
+### Module 1. Front-end Web UI Frameworks Overview: Bootstrap
 - [x] May 15 ~ 28, 2018
 
-### 2. Bootstrap CSS Components
+### Module 2. Bootstrap CSS Components
 - [x] June 4 ~ 5, 2018
 
   + Navigation:
@@ -35,7 +34,7 @@ Learning project of the first course of Full Stack Web Development Specializatio
 
   + Assignment 2
 
-### 3. Bootstrap Javascript Components
+### Module 3. Bootstrap Javascript Components
 - [x] June 6 ~ 7, 2018
 
   + Bootstrap JavaScript Components Overview
@@ -51,7 +50,7 @@ Learning project of the first course of Full Stack Web Development Specializatio
   + [Carousel](http://getbootstrap.com/docs/4.0/components/carousel/)
   + Assignment 3
 
-### 4. Web Tools
+### Module 4. Web Tools
 - [ ] June 7 ~ ?, 2018
 
   + Bootstrap and JQuery
@@ -60,4 +59,63 @@ Learning project of the first course of Full Stack Web Development Specializatio
   + Building and Deployment: NPM Scripts
   + Building and Deployment: Task Runners: Grunt and Gulp
   
+ ## Course 2 - [Front-End JavaScript Frameworks: Angular](https://www.coursera.org/learn/angular)
+ 
+ ### Module 1. Overview
+ 
+  + Introduction
+  + Angular Components
   
+ ### Module 2. Angular Services, Routing and Single Page Applications
+ 
+   + Data Binding
+   + Angular Service Basics
+   + Angular Routing
+   + Single Page Applications
+   
+ ### Module 3. Angular Forms, Angular and Reactive JavaScript
+   
+   + Angular Template-driven Forms
+   + Angular Reactive Forms
+   + Angular and Promise
+   + Angular and RxJS
+ 
+ ### Module 4. Client-Server Communication
+ 
+   + Client-Server Communication
+   + Angular and HTTP
+   + Angular and REST
+   + Animation and Directives
+   + Testing Angular Applications
+   + Building and Deployment
+   
+ ## Course 5 - [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)
+ 
+ ### Module 1.Introduction to Server-side Developmen
+   
+   + Node Modules
+   + Node and HTTP
+   + Introduction to Express
+ 
+ ### Module 2. MongoDB
+ 
+   + Express Generator
+   + Introduction to MongoDB
+   + Node and MongoDB
+   + Mongoose ODM
+   + REST API with Express, MongoDB and Mongoose
+
+ ### Module 3. User Authentication
+ 
+   + Basic Authentication
+   + Cookies, Tea and err ... Express Sessions
+   + User Authentication with Passport
+   + Mongoose Population
+   
+ ### Module 4. Backend as a Service (BaaS)
+ 
+   + HTTPS and Secure Communication
+   + Uploading Files
+   + Cross-Origin Resource Sharing
+   + OAuth and User Authentication
+ 
