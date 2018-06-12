@@ -1,12 +1,14 @@
 # Coursera_Full_Stack
 
+## Course 1 - Bootstrap 4
+
 Learning project of the first course of Full Stack Web Development Specialization in the Coursera platform:
 [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4)
 
-## 1. Front-end Web UI Frameworks Overview: Bootstrap
+### 1. Front-end Web UI Frameworks Overview: Bootstrap
 - [x] May 15 ~ 28, 2018
 
-## 2. Bootstrap CSS Components
+### 2. Bootstrap CSS Components
 - [x] June 4 ~ 5, 2018
 
   + Navigation:
@@ -33,7 +35,7 @@ Learning project of the first course of Full Stack Web Development Specializatio
 
   + Assignment 2
 
-## 3. Bootstrap Javascript Components
+### 3. Bootstrap Javascript Components
 - [x] June 6 ~ 7, 2018
 
   + Bootstrap JavaScript Components Overview
@@ -49,7 +51,7 @@ Learning project of the first course of Full Stack Web Development Specializatio
   + [Carousel](http://getbootstrap.com/docs/4.0/components/carousel/)
   + Assignment 3
 
-## 4. Web Tools
+### 4. Web Tools
 - [ ] June 7 ~ ?, 2018
 
   + Bootstrap and JQuery
@@ -57,4 +59,5 @@ Learning project of the first course of Full Stack Web Development Specializatio
   + Assignment 4
   + Building and Deployment: NPM Scripts
   + Building and Deployment: Task Runners: Grunt and Gulp
-  + Project Implementation and Final Report
+  
+  
