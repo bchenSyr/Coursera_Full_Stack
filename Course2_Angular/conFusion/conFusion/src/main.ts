@@ -10,3 +10,12 @@ if (environment.production) {
 
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.log(err));
+
+
+  /* Class Notes, June 12, 2018
+   *
+   * Root Modular (aka. AppModule), in file app.module.ts
+   *
+   *
+   *
+   */
