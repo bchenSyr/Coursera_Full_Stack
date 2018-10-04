@@ -18,21 +18,21 @@ var campgroundSchema = new mongoose.Schema({
 var Campground = mongoose.model("Campground", campgroundSchema); 
 
 // pass the object that we want to create
-// Campground.create(
-//     {
-//         name: "Granite Hill", 
-//         image: "https://farm1.staticflickr.com/60/215827008_6489cd30c3.jpg",
-//         description: "No water. Beautiful granite!"
+Campground.create(
+    {
+        name: "Granite Hill", 
+        image: "https://farm1.staticflickr.com/60/215827008_6489cd30c3.jpg",
+        description: "No water. Beautiful granite!"
 
-//     }, function(err, campground){
-//         if (err) {
-//             console.log(err);
-//         } else {
-//             console.log("newly created campground");
-//             console.log(campground);
-//         }
-//     }
-// )
+    }, function(err, campground){
+        if (err) {
+            console.log(err);
+        } else {
+            console.log("newly created campground");
+            console.log(campground);
+        }
+    }
+)
 
 // var campgrounds = [
 //         {name: "Salmon Creek", image: "https://farm9.staticflickr.com/8442/7962474612_bf2baf67c0.jpg"},
