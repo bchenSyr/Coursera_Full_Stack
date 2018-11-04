@@ -3,16 +3,21 @@ var app = express();
 
 var bodyParser = require("body-parser");
 var mongoose = require("mongoose");
+var passport = require("passport");
+
 var Campground = require("./models/campground");
 var Comment = require("./models/comment");
 var seedDB = require("./seeds");
+
 
 seedDB(); // remove the original data and add some campgrounds
 
 mongoose.connect('mongodb://localhost:27017/yelp_camp', { useNewUrlParser: true });
 
+app.use(express.static(__dirname + "/public"));
 app.use(bodyParser.urlencoded({extended: true}));
 app.set("view engine", "ejs");
+
 
 // var campgrounds = [
 //         {name: "Salmon Creek", image: "https://farm9.staticflickr.com/8442/7962474612_bf2baf67c0.jpg"},
@@ -73,7 +78,7 @@ app.get("/campgrounds/:id", function(req, res){
         if(err){
             console.log(err);
         } else {
-            console.log(foundCampground)
+            //console.log(foundCampground)
             //render show template with that campground
             res.render("campgrounds/show", {campground: foundCampground});
         }
